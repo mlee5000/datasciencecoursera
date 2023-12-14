@@ -1,0 +1,22 @@
+---
+title: "HelloWorld"
+author: "Margie Lee"
+date: "2023-12-14"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+
+```{r cars}
+
+```
+
+
+```{r pressure, echo=FALSE}
+
+```
